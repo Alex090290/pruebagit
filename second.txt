@@ -1,3 +1,0 @@
-esta es una prueba en local para origin/master
--Este es un mensaje para local, favor de responder este mensaje
--mensaje leído, enterado, estamos a sus órdenes
