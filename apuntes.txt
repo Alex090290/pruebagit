@@ -3,9 +3,13 @@
 -git config --global user.name "user.name"
 -git config --global user.email "user.email"
 -git remote add origin respository_url
--git status 
+-git status
+-git diff
 -git add file_name || add .
+-git restore --staged file_name #revierte el efecto del add .
 -git commit -m "commit"
+-git log --oneline #listado de commits
+-git checkout commit_short_hash #visualizar el estado de un archivo en el tiempo através de un commit 
 -git push origin master
 
 <--!ClONE Y PULL!-->
