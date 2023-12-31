@@ -9,10 +9,10 @@
 -git restore --staged file_name #revierte el efecto del add .
 -git commit -m "commit"
 -git log --oneline #listado de commits
+-git log --oneline --graph #listado de commits con gráfica
 -git checkout commit_short_hash #traslada en el tiempo através de un commit
 -git restore file_name #regresa los cambios no committed al estado anterior 
 -git push origin master
--cambio realizado en la rama alex
 
 <--!ClONE Y PULL!-->
 -git clone respository_url
