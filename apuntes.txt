@@ -1,0 +1,28 @@
+<--!COMANDOS INICIALES!-->
+-git init
+-git config --global user.name "user.name"
+-git config --global user.email "user.email"
+-git remote add origin respository_url
+-git status 
+-git add file_name || add .
+-git commit -m "commit"
+-git push origin master
+
+<--!ClONE Y PULL!-->
+-git clone respository_url
+-git pull origin master
+
+<--!BRANCHES (RAMASS)!-->
+-git branch #lista las ramas, rama con * rama actual
+-git branch rama_name #crea nueva rama
+-git branch -m rama_old_name rama_new_name #modifica el nombre de la rama
+-git checkout rama_name #cambio de rama
+-git branch -d rama_name #eliminar rama
+
+<--!DIFF Y MERGE!-->
+-git diff rama rama #comparativo entre dos ramas
+-git merge rama_from rama_to #unificación de ramas
+#proceso de unificación a master
+-git add .
+-git commit -m "commit"
+-git push -u origin master
