@@ -26,3 +26,8 @@
 -git add .
 -git commit -m "commit"
 -git push -u origin master
+
+<--!GENERAR TOKEN github !-->
+>> github > perfil > settings > Developer settings > personal access tokens
+> generate token > Note (description) > Exporation > Select Scopes > generate token 
+> copy token 
