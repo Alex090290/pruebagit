@@ -1,0 +1,51 @@
+>Modo desarrollador
+
+#AJUSTES
+-Crear usuarios > usuario interno
+-Idiomas
+-Empresa > actualizar información > colocar logo
+    -Diseño > configurar Diseño de documento
+-Unidades de medida > kilos, metros cubicos
+-Conversaciones > destildar(usar los servicios de ICE de twilio)
+-Estadisticas > (X) correo electronico de resumen > confifugurar los correos e del resumen
+-Contactos > (x) autocomepletar socio
+-Permisos > (/) Derecho de acceso por defecto
+ -Movil > (/) Notificaciones automaticas 
+ -Integrar > (x)Biblioteca de imagenes de unplash
+ >>GUARDAR
+
+#SITIO WEB
+-Website info > Nombre del sitio
+    -Favicon
+-Tienda Proceso de compra > dejar que el usuario decida
+    -Inicie sesion al finalizar compra > (/) opcional
+    (/) Comprar ahora
+    -Asignación  > company_name
+    (/) Reordenar desde el portal
+-Tienda 
+    (/) Impuestos incluidos
+    (/) Lista de precios > (/) Reglas de precio avanzadas
+    (/) Comparación de precios
+    (/) Variantes de producto
+    (/) Lista de deseos
+    (/) Evitar la venta de productos correo
+    (/) Descuentos y tarjetas de lealtad
+    (/) Herramienta de Comparación de productos
+-Facturación
+    (/) Factura lo que se ordena
+    (/) Factura automática
+>>GUARDAR
+
+#CONTABILIDAD
+-Locacalización fiscal > Paquete (México)
+-Impuestos ********************************
+-Monedas
+    -Divisa principal > divisa (MXN)
+    -Tasas de cambio automaticas ********************************
+-Facturas de cliente
+    (X) Snailmail
+-Digitalizacion
+    (X) Digitalizacion de documento
+-Banco y efecto
+    (X) Importar CAMT
+    
