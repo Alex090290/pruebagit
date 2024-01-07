@@ -1,2 +1,0 @@
-primera prueba de commit
-esta linea representa un pull
