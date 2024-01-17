@@ -24,6 +24,7 @@
 -git branch -m rama_old_name rama_new_name #modifica el nombre de la rama
 -git checkout rama_name #cambio de rama
 -git branch -d rama_name #eliminar rama
+-git push origin --delete <branch> #elimina la rama remota
 
 <--!DIFF Y MERGE!-->
 -git diff rama rama #comparativo entre dos ramas
